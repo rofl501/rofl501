@@ -8,8 +8,8 @@ I'm 17 and have been working on tech projects for 4 years. I build web apps with
 
 * 🌍  I'm based in Austria
 * ✉️  You can contact me at [leo@r0fl.dev](mailto:leo@r0fl.dev)
-* 🧠  I'm learning web app security hardening, secure cloud architecture, and Java (mostly for pain)
-* 🤝  I'm open to collaborating on interesting projects around AI, automation & well built web apps
+* 🧠  I'm currently learning web app security hardening, secure cloud architecture, and Java (mostly for pain)
+* 🤝  I'm open to collaborating on interesting projects around AI, automation or web apps
 
 ### Skills
 
