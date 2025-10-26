@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer · AI & Automation
 -------------------------------------
 
-I'm 17 and have been working on tech projects for 4 years. I build web apps with Next.js and AWS that actually scale and handle serious user loads. Pretty perfectionist about writing clean, efficient code. Currently into AI, automation, and building systems that do the work for me (or you ^^).
+I'm 17 and have been working on tech projects for 4 years. I build web apps with Next.js and AWS that actually scale and handle serious user loads. Currently into AI, automation, and building systems that do the work for me (or you ^^).
 
 * 🌍  I'm based in Austria
 * ✉️  You can contact me at [leo@r0fl.dev](mailto:leo@r0fl.dev)
-* 🧠  I'm currently learning web app security hardening, secure cloud architecture, and Java (mostly for pain)
-* 🤝  I'm open to collaborating on interesting projects around AI, automation or web apps
+* 🧠  I'm currently learning web app security hardening, secure cloud architecture and Java
+* 🤝  I'm open to collaborating on projects around AI, automation or web apps
 
 ### Skills
 
